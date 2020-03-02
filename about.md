@@ -1,7 +1,7 @@
 ---
+title: About
+permalink: "/about/"
 layout: page
-title: "About"
-permalink: /about/
 ---
 
 You've reached the personal site of Josh Evans.  This is a repostory of my morning thoughts - not always in the morning. Just an overview of what I'm working on/thing about. 
