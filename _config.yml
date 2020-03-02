@@ -1,6 +1,6 @@
 ---
 title: Good Morning, Soda
-timezone: UTC
+timezone: America/New_York
 collections:
   posts:
     title: Posts
@@ -10,7 +10,7 @@ collections:
     output: true
 email: roguescholar42@gmail.com
 description: 'Morning toughts. Also soda. '
-baseurl: ''
+baseurl: 
 url: https://roguescholar42.github.io
 twitter_username: roguescholar42
 github_username: roguescholar42
