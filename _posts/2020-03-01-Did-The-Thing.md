@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Did The Thing"
 ---
 It's a lazy Sunday, which means I've been more productive than I've been all week, I just haven't left my bedroom much. 
