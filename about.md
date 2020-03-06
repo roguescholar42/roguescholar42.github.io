@@ -4,6 +4,8 @@ permalink: "/about/"
 layout: page
 ---
 
+![Facebook 1.jpg](/uploads/Facebook%201.jpg)
+
 You've reached the personal blog of Josh Evans.  This is a repository of my morning thoughts - not always in the morning. Just an overview of what I'm working on/thing about. 
 
 I'm a IT person and writer living in the Greater Boston area.  
