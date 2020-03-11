@@ -15,7 +15,7 @@ Seeing as I'm interested in both technology and words, this site is going to be 
 ## Site's current tech setup
 
 - **Site Engine:** [Jekyll](https://jekyllrb.com/)
-- **Theme:** Slightly modified version of [WhiteGlass](https://github.com/yous/whiteglass)
+- **Theme:** Fairly modified version of [WhiteGlass](https://github.com/yous/whiteglass)
 - **Hosting:** [GitHub Pages](https://pages.github.com/)
 - **CMS:** [Siteleaf](https://www.siteleaf.com/)
 - **Code Repository:** [GitHub](https://github.com/roguescholar42/roguescholar42.github.io)
