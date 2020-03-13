@@ -24,3 +24,4 @@ plugins:
 permalink: "/:year/:month/:day/:title/"
 paginate_path: "/posts/:num/"
 paginate: 10
+author: Josh Evans
