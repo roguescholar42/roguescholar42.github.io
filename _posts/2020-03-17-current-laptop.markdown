@@ -5,7 +5,7 @@ categories:
 - computers
 ---
 
-![Screen Shot 2020-03-17 at 12.37.20 AM.png](/uploads/Screen%20Shot%202020-03-17%20at%2012.37.20%20AM.png)
+![Screen Shot.png](/uploads/Screen%20Shot.png)
 
 Since I was talking about it in the last post, I thought I would post a screen grab of my current laptop's setup.  
 
