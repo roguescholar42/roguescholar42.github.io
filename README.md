@@ -21,3 +21,4 @@ This code base for my personal blog, [Good Morning, Soda](https://goodmorningsod
 - [ ] Tag posts as part of a serise
 - [ ] Main page for collection of serises
 - [ ] Easier to manage theme
+- [X] Clean up Favicon file orginization
