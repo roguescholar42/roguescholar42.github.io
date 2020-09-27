@@ -1,0 +1,12 @@
+---
+title: Tech Week
+date: 2020-09-26 22:04:00 -04:00
+categories:
+- status
+---
+
+This late Saturday evening brings to an end another Tech week.  I should explain the term: for a long while my interests have vacillated between technology and art.  This has been going on for most of my life by I noticed about a year ago that I will usually get into one for week long chunks.  So I have artistic weeks and I have tech weeks.
+
+This week was most decidedly a tech week. I switched out my router for a brand new on and rebuilt my entire home network, which because I'm me, meant more than just replacing the router. It was about as big of a pain as it sounds, but now I get download speeds from my laptop that are seven times as fast as when I started, so I'd say it's worth it. 
+
+Now I just have to start on rebuilding the home server and lab.  Issues for another week. 
