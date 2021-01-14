@@ -1,0 +1,12 @@
+---
+title: New Year
+date: 2021-01-14 17:13:00 -05:00
+categories:
+- status
+---
+
+Haven't written here in a while, but that doesn't mean that I haven't been writing. Far from it. I started journaling again back in November and I've more or less kept up with it every day since.  So that has wicked some of the impetus to create on this blog, but I needed to do something to justify my re-awoken notebook lust.
+
+It's a new year and I am a resolution kind of guy. Although I'm not going to go over all of them here.  I have my analog journal for that. Yes blog, I'm cheating on you! But I did want to say that I'm going to be rebuilding this site given that at some point in the next month or two I will have been running it for a year and I want have a lot more control over the look and feel of it. (If you're not going to code and setup everything by hand, what's the point?)
+
+So look forward to more updates on that as I create my own Jekyll theme, and possible crash the entire site. I'm sure it'll be fine.
